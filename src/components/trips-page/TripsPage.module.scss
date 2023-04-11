@@ -1,0 +1,18 @@
+.tripData {
+  width: 350px;
+  border: 1px solid black;
+  padding: 20px;
+  font-size: 18px;
+  margin: 10px;
+}
+.tripsWrapper {
+  display: flex;
+  padding: 50px;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
+
+.tripsMenuButtonWrapper {
+  display: flex;
+  justify-content: space-around;
+}
