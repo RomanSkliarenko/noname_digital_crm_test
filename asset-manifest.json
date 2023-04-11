@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/noname_digital_crm_test/static/css/main.404a1d47.css",
+    "main.js": "/noname_digital_crm_test/static/js/main.d799ae51.js",
+    "static/media/regular transport.png": "/noname_digital_crm_test/static/media/regular transport.3e783457a05445af2a20.png",
+    "index.html": "/noname_digital_crm_test/index.html",
+    "main.404a1d47.css.map": "/noname_digital_crm_test/static/css/main.404a1d47.css.map",
+    "main.d799ae51.js.map": "/noname_digital_crm_test/static/js/main.d799ae51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.404a1d47.css",
+    "static/js/main.d799ae51.js"
+  ]
+}
