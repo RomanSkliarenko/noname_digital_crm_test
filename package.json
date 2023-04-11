@@ -2,6 +2,7 @@
   "name": "noname_digital_test",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://RomanSkliarenko.github.io/noname_digital_crm_test/",
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
